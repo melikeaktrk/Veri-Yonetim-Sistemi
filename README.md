@@ -1,5 +1,3 @@
 # Veri Yönetim Sistemi
-
-This is a Next.js project for managing and organizing data efficiently. The system allows users to add, view, and manage data in an intuitive interface.
-
+Bu, verileri verimli bir şekilde yönetmek ve düzenlemek için kullanılan bir Next.js projesidir. Sistem, kullanıcıların verileri eklemesine, görüntülemesine ve yönetmesine olanak tanır.
 ## Getting Started
